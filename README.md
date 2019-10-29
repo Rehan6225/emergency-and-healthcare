@@ -1,4 +1,4 @@
-# emergency-and-healthcare
+# Emergency-and-Healthcare
 EMERGH is used for Emergency and healthcare services through web application.
 1)During any emergency situation
                     it helps user to get ambulance in short period of time.
